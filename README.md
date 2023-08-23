@@ -8,8 +8,27 @@ MOTA16 <a href="https://motchallenge.net/"><img src="https://img.shields.io/badg
 
 ## Results
 
-Please refer to the Jupyter Notebook file of the project
-- MOTA.ipynb
+(Please refer to MOTA.ipynb more detail)
+
+![](results/1.PNG)
+![](results/2.PNG)
+![](results/3.PNG)
+![](results/4.PNG)
+![](results/5.PNG)
+![](results/6.PNG)
+![](results/7.PNG)
+![](results/8.PNG)
+![](results/9.PNG)
+![](results/10.PNG)
+
+
+
+
+
+
+
+
+
   
 
 
