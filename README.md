@@ -8,7 +8,7 @@ MOTA16 <a href="https://motchallenge.net/"><img src="https://img.shields.io/badg
 
 ## Results
 
-(Please refer to MOTA.ipynb more detail)
+(Please refer to MOTA.ipynb for more detail)
 
 We plot the result of our model on the 10 consecutive frames of the video sequence 
 
